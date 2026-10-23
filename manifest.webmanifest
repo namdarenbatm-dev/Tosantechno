@@ -1,0 +1,33 @@
+{
+ "name": "سامانه جامع نمایندگان توسن تکنو",
+ "short_name": "توسن تکنو",
+ "description": "پرتال فروش و سفارش نمایندگان توسن تکنو",
+ "lang": "fa",
+ "dir": "rtl",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#eef1f5",
+ "theme_color": "#0b4a8f",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
